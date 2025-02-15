@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Kaushan+Script&size=32&center=true&vCenter=true&width=440&height=45&color=FF6347&background=00000000&duration=4000&lines=Hello%2C+I'm+Nitesh!;Every+line+of+code+alters+destiny.;Unleashing+React+Magic...✨" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Kaushan+Script&size=32&center=true&vCenter=true&width=440&height=45&color=FF6347&background=00000000&duration=4000&lines=Hello%2C+I'm+Nithesh!;Every+line+of+code+alters+destiny.;Unleashing+React+Magic...✨" />
 </h1>
 
 <p align="center">
