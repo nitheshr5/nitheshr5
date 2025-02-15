@@ -1,6 +1,14 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Kaushan+Script&size=32&center=true&vCenter=true&width=440&height=45&color=FF6347&background=00000000&duration=4000&lines=Hello%2C+I'm+Nitesh!;Every+line+of+code+alters+destiny.;Unleashing+React+Magic...✨" />
+</h1>
 
+<p align="center">
+  <img src="https://github.com/shahizmoidin/shahizmoidin/assets/114342600/20b4298d-5179-4b61-baa6-6df7bf952cd1" alt="Screenshot from 2024-07-07 10-29-06" width="50%" height="auto">
+</p>
 
-
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=niteshr5&label=Profile%20views&color=red&style=flat-square" alt="nitesh" />
+</p>
 
 
   
@@ -28,7 +36,7 @@
   <br>
   
   <!-- Reach Me At -->
-  <img src="https://img.shields.io/badge/-Reach%20Me%3A%20shahizmoidin%40gmail.com-32cd32?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Reach%20Me%3A%20nitheshrpoojari5%40gmail.com-32cd32?style=for-the-badge&logo=gmail&logoColor=white" />
   <br>
   
   <!-- Fun Fact -->
@@ -36,13 +44,6 @@
 </p>
 
 
-<h3 align="left" style="color:#FF6347;">🔗 Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/shahizmoidin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.codechef.com/users/shahizmoidin" target="_blank"><img src="https://img.shields.io/badge/CodeChef-%235B4638.svg?&style=for-the-badge&logo=codechef&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/shahizmoidin" target="_blank"><img src="https://img.shields.io/badge/HackerRank-%2300EA64.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-  <a href="https://www.leetcode.com/shahizmoidin" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-</p>
 
 <h3 align="left" style="color:#FF6347;">🛠️ My Toolkit:</h3>
 <p align="left">
@@ -66,17 +67,17 @@
     <tr>
       <td align="center" width="50%">
         <b>Most Used Languages</b><br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahizmoidin&show_icons=true&theme=radical&layout=compact" alt="shahizmoidin Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitheshr5&show_icons=true&theme=radical&layout=compact" alt=" Top Languages" />
       </td>
       <td align="center" width="50%">
         <b>GitHub Stats</b><br>
-        <img src="https://github-readme-stats.vercel.app/api?username=shahizmoidin&show_icons=true&theme=radical" alt="shahizmoidin GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=nitheshr5&show_icons=true&theme=radical" alt=" GitHub Stats" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
         <b>Contribution Streak</b><br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahizmoidin&theme=radical" alt="shahizmoidin Streak Stats" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitheshr5&theme=radical" alt=" Streak Stats" />
       </td>
     </tr>
   </table>
