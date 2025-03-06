@@ -2,9 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Kaushan+Script&size=32&center=true&vCenter=true&width=440&height=45&color=FF6347&background=00000000&duration=4000&lines=Hello%2C+I'm+Nithesh!;Every+line+of+code+alters+destiny.;Unleashing+React+Magic...✨" />
 </h1>
 
-<p align="center">
-  <img src="https://github.com/shahizmoidin/shahizmoidin/assets/114342600/20b4298d-5179-4b61-baa6-6df7bf952cd1" alt="Screenshot from 2024-07-07 10-29-06" width="50%" height="auto">
-</p>
+
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=niteshr5&label=Profile%20views&color=red&style=flat-square" alt="nitesh" />
