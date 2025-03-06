@@ -25,13 +25,7 @@
 
 
 <p align="left">
-  <!-- Currently Mastering -->
-  <img src="https://img.shields.io/badge/-Mastering%3A%20Flutter%20%26%20Dart-FF6347?style=for-the-badge&logo=flutter&logoColor=white" />
-  <br>
-  
-  <!-- Technologies I Love -->
-  <img src="https://img.shields.io/badge/-Tech%20I%20Love%3A%20Flutter%7C%20Dart%7C%20Java-00bfff?style=for-the-badge&logo=flutter&logoColor=white&logoWidth=20" />
-  <br>
+ 
   
   <!-- Reach Me At -->
   <img src="https://img.shields.io/badge/-Reach%20Me%3A%20nitheshrpoojari5%40gmail.com-32cd32?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -54,7 +48,7 @@
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=generic&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-%2395125C.svg?style=for-the-badge&logo=csharp&logoColor=white" />
+ 
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
