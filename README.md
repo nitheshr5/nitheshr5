@@ -31,10 +31,7 @@
   <img src="https://img.shields.io/badge/-Reach%20Me%3A%20nitheshrpoojari5%40gmail.com-32cd32?style=for-the-badge&logo=gmail&logoColor=white" />
   <br>
   
-  <!-- Fun Fact -->
-  <img src="https://img.shields.io/badge/-Fun%20Fact%3A%20I%20code%20%26%20change%20worlds-FFD700?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
+ 
 
 
 <h3 align="left" style="color:#FF6347;">🛠️ My Toolkit:</h3>
